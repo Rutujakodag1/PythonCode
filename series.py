@@ -1,4 +1,4 @@
-//Fibonacci series:
+#Fibonacci series:
 n=int(input("Enter size of series"))
 first=0
 second=1
