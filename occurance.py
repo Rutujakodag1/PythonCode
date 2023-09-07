@@ -1,4 +1,4 @@
-//Occurance of given character in string
+#Occurance of given character in string
 str1=input("Enter the string:")
 ch=input("Enter the character:")
 flag=0
