@@ -1,4 +1,4 @@
-//Palindrome or not 
+#Palindrome or not 
 str1=input("Enter the string:")
 str2=''
 for i in str1:
