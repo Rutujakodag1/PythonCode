@@ -1,4 +1,4 @@
-//sum of elements in list
+#sum of elements in list
 num=[]
 n=int(input("Enter size of list:"))
 for i in range(n):
