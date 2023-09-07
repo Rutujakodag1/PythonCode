@@ -1,4 +1,4 @@
-//Factorial from 1 to n:
+#Factorial from 1 to n:
 n=int(input("Enter the number:"))
 for i in range(1,n+1):
   fact=1
