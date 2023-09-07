@@ -1,4 +1,4 @@
-//Game of kelvin and stuart
+#Game of kelvin and stuart
 kelvin=input("Enter kelvin words:")
 stuart=input("Enter stuart words:")
 k=0
