@@ -1,4 +1,4 @@
-//Number is perfect or not
+#Number is perfect or not
 n=int(input("Enter the number:"))
 flag=0
 for i in range(1,n):
