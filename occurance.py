@@ -5,5 +5,4 @@ flag=0
 for i in str1:
   if i==ch:
     flag=flag+1
-
 print(flag)
