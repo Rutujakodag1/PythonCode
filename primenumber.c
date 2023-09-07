@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 //Prime number between 1 to n:
 int main(void)
 {
